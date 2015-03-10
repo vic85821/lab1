@@ -1,0 +1,11 @@
+Script started on 2015年03月10日 (週二) 17時39分12秒
+]0;F74036297@2015cpp: ~F74036297@2015cpp:~$ whoami;pwd
+F74036297
+/home/F74036297
+]0;F74036297@2015cpp: ~F74036297@2015cpp:~$ git cong[Kfig -l
+]0;F74036297@2015cpp: ~F74036297@2015cpp:~$ git clone https://github.com/vic85821/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;F74036297@2015cpp: ~F74036297@2015cpp:~$ exit
+
+Script done on 2015年03月10日 (週二) 17時40分38秒
