@@ -4,10 +4,9 @@ int main()
 {
     int n;
     cin>>n;
-    cout<<n;
-    if(n==1)
-    else 
+    while(n!=1)
     {
+        cout<<n<<' ';
 	if(n%2==1)
 	{
 	    n=3*n+1;
@@ -17,6 +16,6 @@ int main()
 	    n=n/2;
 	}
     }
-    goto 7;
+    cout<<n<<endl;
     return 0;
 } 
